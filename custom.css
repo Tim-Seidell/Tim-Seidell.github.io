@@ -1,34 +1,9 @@
-/* Tags */
-body {
-  background-color: black;
-}
-
-/* Classes */
-.center {
-  text-align: center;
-  width: 100%;
-  margin: auto;
-}
-
-.text {
-  font-family: arial;
-  font-weight: 100;
-  color: white;
-}
-
-.large-text {
-  font-size: 100;
-}
-
-.small-text {
-  font-size: 20;
-}
-
-.space {
-  margin: 400px;
-}
-
-/* ID's */
-#tim:hover {
-  font-size: 110;
+body, html {
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #666;
 }
