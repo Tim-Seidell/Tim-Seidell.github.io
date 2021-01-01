@@ -73,3 +73,7 @@ body, html {
     background-attachment: scroll;
   }
 }
+
+::-webkit-scrollbar {
+    display: none;
+}
