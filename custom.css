@@ -6,6 +6,29 @@ body {
 /* Classes */
 .center {
   text-align: center;
+  width: 100%;
+  margin: auto;
+}
+
+.text {
+  font-family: arial;
+  font-weight: 100;
+  color: white;
+}
+
+.large-text {
+  font-size: 100;
+}
+
+.small-text {
+  font-size: 20;
+}
+
+.space {
+  margin: 400px;
 }
 
 /* ID's */
+#tim:hover {
+  font-size: 110;
+}
