@@ -1,3 +1,11 @@
+/* Tags */
+body {
+  background-color: black;
+}
+
+/* Classes */
 .center {
   text-align: center;
 }
+
+/* ID's */
